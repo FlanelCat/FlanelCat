@@ -26,3 +26,9 @@ For more about my professional background and experience, visit my [LinkedIn pro
 ---
 
 ☕ **Powered by curiosity and probably too much coffee.**
+
+<a href="https://www.buymeacoffee.com/flanelcat">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy FlanelCat a Coffee"
+       height="50">
+</a>
