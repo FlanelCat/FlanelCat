@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🐱 Hi, I'm Patrick — aka FlanelCat
 
-<!--
-**FlanelCat/FlanelCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux user, developer, and lifelong technology enthusiast.
 
-Here are some ideas to get you started:
+My programming roots are in **C++ and MATLAB**, and these days I'm also working extensively with **Python**, AI-assisted development, and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications that solve problems I actually encounter — while learning new things along the way.
+
+### 🔧 What I'm working with
+
+- **C++ / MATLAB** — where my programming journey started
+- **Python** — current application development and automation
+- **Linux** — my preferred development environment
+- **AI-assisted development** — exploring how AI can help turn ideas into useful software
+
+### 🚧 Current projects
+
+I'm currently developing and experimenting with Linux desktop applications, Python tools, automation, and other quality-of-life software.
+
+More projects will appear here as they're ready for public release.
+
+### 👋 Find me elsewhere
+
+For more about my professional background and experience, visit my [LinkedIn profile](https://www.linkedin.com/in/patrick-karlsson-edlund-b613582?utm_source=chatgpt.com).
+
+☕ **Powered by curiosity and probably too much coffee.**
