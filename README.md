@@ -1,4 +1,4 @@
-# 🐱 Hi, I'm Patrick — aka FlanelCat
+# 🐱 Hi, I'm Patrick Edlund — aka FlanelCat
 
 Linux user, developer, and lifelong technology enthusiast.
 
